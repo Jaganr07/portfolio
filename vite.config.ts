@@ -3,20 +3,16 @@ import react from "@vitejs/plugin-react-swc"
 import { defineConfig } from "vite"
 import { compression } from 'vite-plugin-compression2'
 
-
 export default defineConfig({
+  base: "/Portfolio/",  // <-- add this line, use your repo name
   plugins: [
-    react(
-      {
-        tsDecorators: true,
-      }
-    ),
-    compression(
-      {
-        algorithm: "brotliCompress",
-        include: [".js", ".json", ".css", ".html"]
-      }
-    ),
+    react({
+      tsDecorators: true,
+    }),
+    compression({
+      algorithm: "brotliCompress",
+      include: [".js", ".json", ".css", ".html"]
+    }),
   ],
   server: {
     port: 3000,
@@ -27,3 +23,4 @@ export default defineConfig({
     },
   },
 })
+
