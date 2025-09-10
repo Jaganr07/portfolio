@@ -166,13 +166,13 @@ class DynamicValues {
                 {
                     title: "GiveBites",
                     link: "https://github.com/Jaganr07/BITSS.git",
-                    logo: "https://github.com/user-attachments/assets/6d63227d-1b72-4c22-9923-b2a4c96d4b68",
+                    logo: "https://raw.githubusercontent.com/Jaganr07/Images/refs/heads/main/text%20(1).svg",
                     desc: "An app to donate meals easily and support NGOs in fighting hunger. ",
                 },
                 {
                     title: "Online Debate and Voting System",
                     link: "https://github.com/Jaganr07/Online-Debate-and-Voting-System.git",
-                    logo: "https://admui.vercel.app/android-chrome-512x512.png",
+                    logo: "https://raw.githubusercontent.com/Jaganr07/Images/refs/heads/main/8393149.svg",
                     desc: "A web app that enables users to participate in debates, share opinions, and cast votes in a transparent and interactive way.",
                 },
                 {
