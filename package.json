@@ -1,15 +1,16 @@
 {
-  "name": "fayaz-bin-salam-portfolio-v3",
+  "name": "Jaganr07",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://Jaganr07/portfolio.github.io",
   "scripts": {
     "dev": "vite",
     "build": "tsc-silent -p tsconfig.json --suppress @ && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -b master"
+    "deploy": "gh-pages -d dist -b gh-pages"
   },
   "dependencies": {
     "@amplitude/analytics-browser": "^2.11.7",
@@ -79,7 +80,7 @@
     "tailwindcss": "^3.4.1",
     "tsc-silent": "^1.2.2",
     "typescript": "^5.2.2",
-    "vite": "^5.1.4",
+    "vite": "^7.1.5",
     "vite-plugin-compression2": "^1.0.0"
   },
   "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
