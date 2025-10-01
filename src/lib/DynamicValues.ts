@@ -184,11 +184,11 @@ class DynamicValues {
             ]
         }, 
         {
-            text: "Extention",
+            text: "Extension",
             arr: [
                 {
                     title: "Smart Email Writer",
-                    link: "https://github.com/Jaganr07/email-writer-sb.git",
+                    link: "https://github.com/Jaganr07/Email_Writer.git",
                     logo: "https://raw.githubusercontent.com/Jaganr07/Email_Writer/refs/heads/master/email-writer-ext/gamil.svg",
                     desc: "Smart Email Writer is an AI-powered application that generates professional email replies in a chosen tone, helping users save time while maintaining a polished and human-like communication style.",
                 },
