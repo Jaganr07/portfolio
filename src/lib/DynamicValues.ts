@@ -29,6 +29,11 @@ class DynamicValues {
                     logo: "https://cdn-icons-png.flaticon.com/128/3281/3281289.png"
                 },
                 {
+                    title: "LeetCode",
+                    link: "https://leetcode.com/u/jagan2005/",
+                    logo: "https://raw.githubusercontent.com/Jaganr07/Images/refs/heads/main/LeetCode_logo_black.svg"
+                },
+                {
                     title: "Languages",
                     desc: "English,Tamil,Telugu",
                     logo: "https://cdn-icons-png.flaticon.com/128/3898/3898150.png"
@@ -41,7 +46,7 @@ class DynamicValues {
                 {
                     title: "Resume",
                     desc: "Click the link icon to view/download",
-                    link: "https://drive.google.com/file/d/1nc8VqbQTNKtOKKeCpEh09kJhRFa3SuK7/view?usp=sharing",
+                    link: "https://docs.google.com/document/d/1289tMJ5Hx4EdByzZT35yOh_SOd0M3xCstzTMw_xEeaM/edit?usp=sharing",
                     logo: "https://cdn-icons-png.flaticon.com/128/909/909212.png"
                 }
             ]
@@ -107,10 +112,6 @@ class DynamicValues {
                     logo: 'https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg'
                 },
                 {
-                    title: 'Flask',
-                    logo: 'https://github.com/p32929/portfolio-v2/assets/6418354/2183bb2b-7680-49f1-a626-b1f647e7d656'
-                },
-                {
                     title: 'Git',
                     logo: 'https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'
                 },
@@ -134,8 +135,8 @@ class DynamicValues {
                     logo: 'https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png'
                 },
                 {
-                    title: 'Figma',
-                    logo: 'https://www.vectorlogo.zone/logos/figma/figma-icon.svg'
+                    title: 'Canva',
+                    logo: 'https://raw.githubusercontent.com/Jaganr07/Images/refs/heads/main/canva.svg'
                 },
                 {
                     title: 'Postman',
@@ -144,10 +145,6 @@ class DynamicValues {
                 {
                     title: 'Visily AI',
                     logo: 'https://raw.githubusercontent.com/Jaganr07/Images/refs/heads/main/vi.svg'
-                },
-                {
-                    title: 'XAMPP',
-                    logo: 'https://raw.githubusercontent.com/Jaganr07/Images/refs/heads/main/xampp-svgrepo-com.svg'
                 },
             ]
         },
