@@ -194,6 +194,17 @@ class DynamicValues {
                 },
             ]
         },
+        {
+            text: "UI/UX Design",
+            arr: [
+                {
+                    title: "Go-X",
+                    link: "https://go-x-tensorgo-jaganathan.my.canva.site/",
+                    logo: "https://raw.githubusercontent.com/Jaganr07/portfolio/refs/heads/main/go%20x%202%20(1).svg",
+                    desc: "Developed the Go-X website, creating a modern, responsive, and user-friendly design with intuitive navigation and engaging UI, ensuring seamless user experience across devices.",
+                },
+            ]
+        },
     ]
 
     static contacts: Array<ITitledListItem> = [
